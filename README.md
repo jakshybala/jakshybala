@@ -1,6 +1,6 @@
 ---
 
-### 🇰🇬: My Lang :
+### 🇰🇬 My Lang :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakshybala)](https://github.com/anuraghazra/github-readme-stats) 
  ---
 
